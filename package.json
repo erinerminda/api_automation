@@ -1,0 +1,24 @@
+{
+  "name": "api_automation_course",
+  "version": "1.0.0",
+  "description": "ini adalah learning api automation saya",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinerminda/api_automation.git"
+  },
+  "author": "ErmindaIsnaini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erinerminda/api_automation/issues"
+  },
+  "homepage": "https://github.com/erinerminda/api_automation#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
